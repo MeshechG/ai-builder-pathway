@@ -9,4 +9,3 @@ name - name.title()
 
 # Say hello user
 print(f"hello, {name}")
-
